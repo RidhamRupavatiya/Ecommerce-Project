@@ -23,6 +23,13 @@ You can view a live demo of the project [here](https://ebharat-store.vercel.app/
 - **Hosting**: Firebase Hosting
 - **Styling**: CSS, Taliwind CSS
 
+##  Admin Panel
+The admin panel is accessible at /admin after logging in with an admin account. Admin functionalities include:
+
+-  Manage Products: Add, edit, delete products.
+-  Manage Orders: View and update order statuses.
+-  Manage Users: View and manage user information.
+
 ## Installation
 
 1. Clone the repository:
@@ -51,13 +58,5 @@ To start the development server:
 ```bash 
 npm run dev
 ```
-
-Admin Panel
-The admin panel is accessible at /admin after logging in with an admin account. Admin functionalities include:
-
-1. Manage Products: Add, edit, delete products.
-2. Manage Orders: View and update order statuses.
-3. Manage Users: View and manage user information.
-
 
 This `README.md` file provides a comprehensive overview of your project, including setup instructions, configuration details, and usage guidelines. Feel free to modify it to better suit your project's specific needs.
